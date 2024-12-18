@@ -7,6 +7,6 @@
 - ⚡ Fun fact: The tongue is the strongest muscle and i love to eat.
 
 <!---
-Deltanthecoder/Deltanthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/Deltanthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
